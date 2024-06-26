@@ -1,0 +1,17 @@
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.Form1.resources
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.UnrealizedPnLForm.resources
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.csproj.GenerateResource.cache
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.AssemblyInfoInputs.cache
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.AssemblyInfo.cs
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.csproj.CoreCompileInputs.cache
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\DataMiningMonitor.exe
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\DataMiningMonitor.deps.json
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\DataMiningMonitor.runtimeconfig.json
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\DataMiningMonitor.dll
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\DataMiningMonitor.pdb
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.dll
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\refint\DataMiningMonitor.dll
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.pdb
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.genruntimeconfig.cache
+C:\Users\peiting\桌面\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\ref\DataMiningMonitor.dll

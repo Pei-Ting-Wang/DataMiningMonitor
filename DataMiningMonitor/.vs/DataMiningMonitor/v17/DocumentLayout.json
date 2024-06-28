@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\services\\dailytreadingreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\services\\dailytreadingreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\forms\\dailytreadingreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\forms\\dailytreadingreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\models\\basicinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\models\\basicinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\interfaces\\idailytreadingreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\interfaces\\idailytreadingreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\forms\\dailytreadingreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\forms\\dailytreadingreport.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\dataminingmonitor\\forms\\dailytreadingreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\forms\\dailytreadingreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\unrealizedpnlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\unrealizedpnlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\models\\twbrokerstockdeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\models\\twbrokerstockdeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\interfaces\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\interfaces\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\services\\unrealizedgainorlossservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\services\\unrealizedgainorlossservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\dataminingmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\dataminingmonitor\\unrealizedpnlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\unrealizedpnlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\dataminingmonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|c:\\users\\pt\\desktop\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\dataminingmonitor\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63ABAC26-1982-44DD-B0D3-722E05E6CB05}|DataMiningMonitor\\DataMiningMonitor.csproj|solutionrelative:dataminingmonitor\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DailyTreadingReportService.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Services\\DailyTreadingReportService.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Services\\DailyTreadingReportService.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Services\\DailyTreadingReportService.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Services\\DailyTreadingReportService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:01:48.673Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDailyTreadingReportService.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Interfaces\\IDailyTreadingReportService.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Interfaces\\IDailyTreadingReportService.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Interfaces\\IDailyTreadingReportService.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Interfaces\\IDailyTreadingReportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:01:10.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DailyTreadingReport.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Forms\\DailyTreadingReport.Designer.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Forms\\DailyTreadingReport.Designer.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Forms\\DailyTreadingReport.Designer.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Forms\\DailyTreadingReport.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:20:42.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DailyTreadingReport.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Forms\\DailyTreadingReport.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Forms\\DailyTreadingReport.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Forms\\DailyTreadingReport.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Forms\\DailyTreadingReport.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:11:23.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnrealizedPnLForm.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\UnrealizedPnLForm.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\UnrealizedPnLForm.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\UnrealizedPnLForm.cs",
+              "RelativeToolTip": "DataMiningMonitor\\UnrealizedPnLForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:50:34.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DailyTreadingReport.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Forms\\DailyTreadingReport.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Forms\\DailyTreadingReport.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Forms\\DailyTreadingReport.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "DataMiningMonitor\\Forms\\DailyTreadingReport.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:22:25.885Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Services\\TestService.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Services\\TestService.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Services\\TestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:06:57.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicInfoContext.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Models\\BasicInfoContext.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Models\\BasicInfoContext.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Models\\BasicInfoContext.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Models\\BasicInfoContext.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA0wDMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:46:15.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TwbrokerStockDeal.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Models\\TwbrokerStockDeal.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Models\\TwbrokerStockDeal.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Models\\TwbrokerStockDeal.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Models\\TwbrokerStockDeal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T05:28:58.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Program.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Program.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:47:54.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Form1.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Form1.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Form1.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:00:20.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Interfaces\\ITestService.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Interfaces\\ITestService.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Interfaces\\ITestService.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Interfaces\\ITestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:08:32.853Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnrealizedGainOrLossService.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Services\\UnrealizedGainOrLossService.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Services\\UnrealizedGainOrLossService.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Services\\UnrealizedGainOrLossService.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Services\\UnrealizedGainOrLossService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:30:27.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Form1.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Form1.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "DataMiningMonitor\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:07:02.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnrealizedPnLForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\UnrealizedPnLForm.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\UnrealizedPnLForm.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\UnrealizedPnLForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "DataMiningMonitor\\UnrealizedPnLForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:13:53.766Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\Form1.Designer.cs",
+              "RelativeToolTip": "DataMiningMonitor\\Form1.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwIgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:07:00.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataMiningMonitor.csproj",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor.csproj",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\DataMiningMonitor.csproj",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor.csproj",
+              "RelativeToolTip": "DataMiningMonitor\\DataMiningMonitor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T14:48:28.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\efpt.config.json",
+              "RelativeDocumentMoniker": "DataMiningMonitor\\efpt.config.json",
+              "ToolTip": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\efpt.config.json",
+              "RelativeToolTip": "DataMiningMonitor\\efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T14:46:58.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

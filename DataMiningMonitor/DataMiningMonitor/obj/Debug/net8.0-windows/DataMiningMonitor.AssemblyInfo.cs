@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataMiningMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1417e300b34612e2b3ed50e8f22068269d700258")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataMiningMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataMiningMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

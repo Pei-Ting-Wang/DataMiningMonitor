@@ -50,68 +50,71 @@ namespace DataMiningMonitor
             menuStrip1.Items.AddRange(new ToolStripItem[] { stockToolStripMenuItem, warrantToolStripMenuItem, tradingDailyReportToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(800, 28);
+            menuStrip1.Padding = new Padding(5, 2, 0, 2);
+            menuStrip1.Size = new Size(622, 24);
             menuStrip1.TabIndex = 5;
             menuStrip1.Text = "menuStrip1";
             // 
             // stockToolStripMenuItem
             // 
             stockToolStripMenuItem.Name = "stockToolStripMenuItem";
-            stockToolStripMenuItem.Size = new Size(53, 24);
+            stockToolStripMenuItem.Size = new Size(43, 20);
             stockToolStripMenuItem.Text = "現股";
             // 
             // warrantToolStripMenuItem
             // 
             warrantToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { marketMakingToolStripMenuItem, hitRateQueryToolStripMenuItem, realTimeProfitAndLossToolStripMenuItem, warrantToolsToolStripMenuItem, unrealizedProfitAndLossToolStripMenuItem });
             warrantToolStripMenuItem.Name = "warrantToolStripMenuItem";
-            warrantToolStripMenuItem.Size = new Size(53, 24);
+            warrantToolStripMenuItem.Size = new Size(43, 20);
             warrantToolStripMenuItem.Text = "權證";
             // 
             // marketMakingToolStripMenuItem
             // 
             marketMakingToolStripMenuItem.Name = "marketMakingToolStripMenuItem";
-            marketMakingToolStripMenuItem.Size = new Size(224, 26);
+            marketMakingToolStripMenuItem.Size = new Size(134, 22);
             marketMakingToolStripMenuItem.Text = "劵商造市";
             // 
             // hitRateQueryToolStripMenuItem
             // 
             hitRateQueryToolStripMenuItem.Name = "hitRateQueryToolStripMenuItem";
-            hitRateQueryToolStripMenuItem.Size = new Size(224, 26);
+            hitRateQueryToolStripMenuItem.Size = new Size(134, 22);
             hitRateQueryToolStripMenuItem.Text = "命中率查詢";
             // 
             // realTimeProfitAndLossToolStripMenuItem
             // 
             realTimeProfitAndLossToolStripMenuItem.Name = "realTimeProfitAndLossToolStripMenuItem";
-            realTimeProfitAndLossToolStripMenuItem.Size = new Size(224, 26);
+            realTimeProfitAndLossToolStripMenuItem.Size = new Size(134, 22);
             realTimeProfitAndLossToolStripMenuItem.Text = "即使損益";
             // 
             // warrantToolsToolStripMenuItem
             // 
             warrantToolsToolStripMenuItem.Name = "warrantToolsToolStripMenuItem";
-            warrantToolsToolStripMenuItem.Size = new Size(224, 26);
+            warrantToolsToolStripMenuItem.Size = new Size(134, 22);
             warrantToolsToolStripMenuItem.Text = "權證工具";
             // 
             // unrealizedProfitAndLossToolStripMenuItem
             // 
             unrealizedProfitAndLossToolStripMenuItem.Name = "unrealizedProfitAndLossToolStripMenuItem";
-            unrealizedProfitAndLossToolStripMenuItem.Size = new Size(224, 26);
+            unrealizedProfitAndLossToolStripMenuItem.Size = new Size(134, 22);
             unrealizedProfitAndLossToolStripMenuItem.Text = "未實現損益";
             unrealizedProfitAndLossToolStripMenuItem.Click += unrealizedProfitAndLossToolStripMenuItem_Click;
             // 
             // tradingDailyReportToolStripMenuItem
             // 
             tradingDailyReportToolStripMenuItem.Name = "tradingDailyReportToolStripMenuItem";
-            tradingDailyReportToolStripMenuItem.Size = new Size(98, 24);
+            tradingDailyReportToolStripMenuItem.Size = new Size(79, 20);
             tradingDailyReportToolStripMenuItem.Text = "買賣日報表";
+            tradingDailyReportToolStripMenuItem.Click += tradingDailyReportToolStripMenuItem_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(9F, 19F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(622, 355);
             Controls.Add(menuStrip1);
             IsMdiContainer = true;
             MainMenuStrip = menuStrip1;
+            Margin = new Padding(2, 2, 2, 2);
             Name = "Form1";
             Text = "Form1";
             menuStrip1.ResumeLayout(false);

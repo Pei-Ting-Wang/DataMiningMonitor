@@ -1,0 +1,150 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "BasicInfoContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DataMiningMonitor",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[DailyHitRate]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DailyLimitPriceInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DailyQuote]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DailySeccoLeftLots]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DailySpecialPidGroup]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DailyStockInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DailyThreeTraderDeal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DailyWarrantCountInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DailyWarrantInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DailyWarrantMorningVol]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DailyWarrantVol]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DividendHistoryTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DividendNoticeTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DividendTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Holiday]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MsgToLineNotify]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RptLog]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[StockDealTest]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TWBrokerDeal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TWBrokerStockDeal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TWCalendarTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TWDealerDeal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TWStockDayTradeDeal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[WarrantBayVolCount]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[WarrantInfo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[WarrantSellVolCount]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[WarrantVolDaily]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

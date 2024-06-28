@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peiting\\桌面\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor.csproj": {}
+    "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peiting\\桌面\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor.csproj": {
+    "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peiting\\桌面\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor.csproj",
+        "projectUniqueName": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor.csproj",
         "projectName": "DataMiningMonitor",
-        "projectPath": "C:\\Users\\peiting\\桌面\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor.csproj",
-        "packagesPath": "C:\\Users\\peiting\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peiting\\桌面\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\obj\\",
+        "projectPath": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor.csproj",
+        "packagesPath": "C:\\Users\\PT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PT\\Desktop\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\DataMiningMonitor\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\peiting\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +49,20 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

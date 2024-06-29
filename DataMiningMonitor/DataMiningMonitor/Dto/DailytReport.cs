@@ -12,16 +12,6 @@ namespace DataMiningMonitor.Dtos
     public class DailytReport
     {
         /// <summary>
-        /// 日期
-        /// </summary>
-        public DateOnly Date { get; set; }
-
-        /// <summary>
-        /// 代碼
-        /// </summary>
-        public string Pid { get; set; }
-
-        /// <summary>
         /// 分點
         /// </summary>
         public string BrokerId { get; set; }

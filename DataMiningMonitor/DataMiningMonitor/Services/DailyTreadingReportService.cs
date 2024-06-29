@@ -12,9 +12,12 @@ namespace DataMiningMonitor.Services
         {
             _dbcontext = context;
         }
-        public List<DailytReport> GetDailyReport(string reportDate, string pid)
+        public List<DailytReport> GetDailyReport(DateOnly reportDate, string pid)
         {
-            var dailyLimitPriceInfo = _dbcontext.DailyLimitPriceInfos.AsNoTracking().FirstOrDefault(w => w.Pid == pid);
+
+            var dailyLimitPriceInfo = _dbcontext.DailyLimitPriceInfos.AsNoTracking()
+                                        .Where(w => w.Pid == pid).FirstOrDefault();
+
 
             List<DailytReport> dailytReports = new List<DailytReport>();
 
@@ -24,29 +27,28 @@ namespace DataMiningMonitor.Services
 
                 if (isWarrant)
                 {
-                    dailytReports = _dbcontext.TwbrokerStockDeals.AsNoTracking().Where(w =>  w.Pid == pid).Select(s => new DailytReport
-                    {
-                        Date = s.Date,
-                        Pid = s.Pid,
-                        BrokerId = s.BrokerId,
-                        Price = s.Price,
-                        Blotsum = s.Blotsum,
-                        Slotsum = s.Slotsum
-                    }).Take(5).ToList();
+                    dailytReports = _dbcontext.TwbrokerDeals.AsNoTracking()
+                        .Where(w => w.Date == reportDate && w.Pid == pid)
+                        .Select(s => new DailytReport
+                        {
+                            BrokerId = s.BrokerId,
+                            Price = s.Price,
+                            Blotsum = s.Blotsum,
+                            Slotsum = s.Slotsum
+                        }).ToList();
                 }
                 else
                 {
-                    var test = _dbcontext.TwbrokerDeals.AsNoTracking().ToList().Take(5);
-                    dailytReports = _dbcontext.TwbrokerDeals.AsNoTracking().Where(w =>w.Pid == pid).Select(s => new DailytReport
-                    {
-                        Date = s.Date,
-                        Pid = s.Pid,
-                        BrokerId = s.BrokerId,
-                        Price = s.Price,
-                        Blotsum = s.Blotsum,
-                        Slotsum = s.Slotsum
-                    }).Take(5).ToList();
-                };
+                    dailytReports = _dbcontext.TwbrokerStockDeals.AsNoTracking()
+                        .Where(w => w.Date == reportDate && w.Pid == pid)
+                        .Select(s => new DailytReport
+                        {
+                            BrokerId = s.BrokerId,
+                            Price = s.Price,
+                            Blotsum = s.Blotsum,
+                            Slotsum = s.Slotsum
+                        }).ToList();
+                }
             }
             return dailytReports;
         }

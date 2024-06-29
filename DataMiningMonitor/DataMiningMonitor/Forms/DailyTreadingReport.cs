@@ -1,14 +1,6 @@
 ﻿using DataMiningMonitor.Dtos;
 using DataMiningMonitor.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+
 
 namespace DataMiningMonitor.Forms
 {
@@ -21,24 +13,37 @@ namespace DataMiningMonitor.Forms
             _dailyTreadingReportService = dailyTreadingReportService;
         }
 
-        private void GetDailyReport(object sender, EventArgs e)
+        private async void GetDailyReport(object sender, EventArgs e)
         {
-            string ReportDate = SelectedTime.Text;
-            string Pid = InputPid.Text;
-            List<DailytReport> dailyReports = new List<DailytReport>();
-            dailyReports = _dailyTreadingReportService.GetDailyReport(ReportDate, Pid);
-            if (dailyReports.Count != 0)
-            { 
-                // Create a new DataGridView
-                DataGridView dataGridView = new DataGridView();
-
-                // Set the data source of the DataGridView to the dailyReports list
-                dataGridView.DataSource = dailyReports;
-
-                // Add the DataGridView to the form
-                Controls.Add(dataGridView);
+            try
+            {
+                status.Text = "查詢中...";
+                DateOnly reportDate = DateOnly.FromDateTime(SelectedTime.Value);
+                string pid = InputPid.Text;
+                List<DailytReport> dailyReports = new List<DailytReport>();
+                dailyReports = await Task.Run(() => _dailyTreadingReportService.GetDailyReport(reportDate, pid));
+                if (dailyReports.Count != 0)
+                {
+                    dateResult.Text = reportDate.ToString();
+                    pidResult.Text = pid;
+                    DailyReportGridView.DataSource = dailyReports;
+                    DailyReportGridView.Columns[0].HeaderText = "分點";
+                    DailyReportGridView.Columns[1].HeaderText = "價格";
+                    DailyReportGridView.Columns[2].HeaderText = "買進股數";
+                    DailyReportGridView.Columns[3].HeaderText = "賣出股數";
+                }
             }
-            
+            catch (Exception ex)
+            {
+                status.Text = "查詢失敗!!!";
+                status.ForeColor = Color.Red;
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                status.Text = "查詢完成!!!";
+                status.ForeColor = Color.Blue;
+            }
         }
     }
 }

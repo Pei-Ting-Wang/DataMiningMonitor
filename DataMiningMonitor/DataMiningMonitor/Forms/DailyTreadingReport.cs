@@ -13,6 +13,11 @@ namespace DataMiningMonitor.Forms
             _dailyTreadingReportService = dailyTreadingReportService;
         }
 
+        /// <summary>
+        /// 取得買賣日報表
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void GetDailyReport(object sender, EventArgs e)
         {
             try

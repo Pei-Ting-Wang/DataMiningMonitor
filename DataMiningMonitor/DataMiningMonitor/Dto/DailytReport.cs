@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DataMiningMonitor.Dtos
+﻿namespace DataMiningMonitor.Dtos
 {
     /// <summary>
     /// 買賣日報表

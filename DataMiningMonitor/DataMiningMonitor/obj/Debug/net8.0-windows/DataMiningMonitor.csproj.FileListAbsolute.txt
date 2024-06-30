@@ -20,7 +20,6 @@ C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMi
 C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\DataMiningMonitor.runtimeconfig.json
 C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\DataMiningMonitor.dll
 C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\DataMiningMonitor.pdb
-C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.Form1.resources
 C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.UnrealizedPnLForm.resources
 C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.csproj.GenerateResource.cache
 C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.GeneratedMSBuildEditorConfig.editorconfig
@@ -148,3 +147,12 @@ C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMi
 C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\obj\Debug\net8.0-windows\DataMiningMonitor.MainForm.resources
+C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\DataMiningMonitor.dll.config
+C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\PT\Desktop\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\DataMiningMonitor\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll

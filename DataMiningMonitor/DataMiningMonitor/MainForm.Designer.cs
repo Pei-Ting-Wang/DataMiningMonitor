@@ -4,7 +4,7 @@ using System.Xml.Linq;
 
 namespace DataMiningMonitor
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         ///  Required designer variable.

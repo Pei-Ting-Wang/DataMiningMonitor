@@ -1,14 +1,12 @@
 using DataMiningMonitor.Forms;
-using DataMiningMonitor.Interfaces;
-using DataMiningMonitor.Models;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace DataMiningMonitor
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
         private readonly IServiceProvider _serviceProvider;
-        public Form1(IServiceProvider serviceProvider)
+        public MainForm(IServiceProvider serviceProvider)
         {    
             InitializeComponent();
             _serviceProvider = serviceProvider;
@@ -20,6 +18,11 @@ namespace DataMiningMonitor
             unrealizedPnLForm.Show();
         }
 
+        /// <summary>
+        /// 買賣日報表
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void tradingDailyReportToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DailyTreadingReport dailyTreadingReport = _serviceProvider.GetRequiredService<DailyTreadingReport>();
